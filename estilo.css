@@ -1,0 +1,47 @@
+/*cabeçalho*/
+
+#logo{height: 20px;}
+
+/*Conteudo principal*/
+
+
+/*banner*/
+
+#section-banners img{
+    width: 600px;
+}
+
+/*Produtos vendidos*/
+
+#section-vendidos h2{ text-align: center; font-weight: bold;}
+
+#section-vendidos h5{ font-weight: bold; font-size: 15px;}
+
+#section-vendidos .vermelho { color:  red; font-weight: bold; font-size: 20px;}
+
+#section-vendidos { text-align: center;}
+
+#section-vendidos img{ border-radius: 10px; height: 320px;}
+
+#section-vendidos .card { margin: 5px; border: 1px solid rgb(255, 255, 255);}
+
+/*Rodapé*/
+
+footer{ text-align: center;}
+footer p{ font-weight: bold; padding: 10px;}
+
+/*Botão Voltar topo*/
+
+#voltar-topo { position: fixed; bottom: 5px; right: 50px;}
+
+/* página de login  */
+
+#section-login{ margin-top: 50px;background-color: aliceblue;}
+#section-login h1{ text-align: center;}
+#section-login input {width: 100%;}
+
+/* Formulário de cadastro*/
+
+#section-cadastro{ padding: 5px; text-align: center; background-color: aliceblue;}
+#form-cadastrar{ padding: 50px; display: none;}
+
